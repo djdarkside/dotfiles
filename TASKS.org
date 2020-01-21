@@ -13,17 +13,8 @@
 *** Look into purchasing a new bed
 **** Must be King Size not Cal King
 * Studio One TODO List
+** TODO Auto-Book Las Lomas and Print Envelopes. 
 ** Senior 2020 Yearbook CDs
-*** Amador Valley HS
-**** DONE Retouching batch
-     CLOSED: [2020-01-13 Mon 11:45]
-**** DONE Cropping 
-     CLOSED: [2020-01-13 Mon 11:46]
-**** DONE Send Leisl PDF
-     CLOSED: [2020-01-13 Mon 11:46]
-**** DONE Finalize Retouching 
-     CLOSED: [2020-01-14 Tue 16:07]
-**** TODO Finalize CD
 *** Castro Valley HS 
 **** DONE Completed Retouching batch
      CLOSED: [2020-01-14 Tue 11:55]
@@ -31,13 +22,13 @@
      CLOSED: [2020-01-14 Tue 11:55]
 **** DONE Sent Leisl PDF Proof
      CLOSED: [2020-01-14 Tue 11:55] 
-     DEADLINE: <2020-01-14 Tue>
 **** DONE Finalize Retouching 
      CLOSED: [2020-01-15 Wed 14:48]
      :PROPERTIES:
      :ID:       950d3d28-c726-4313-a7ba-c974b487556a
      :END:
 **** TODO Finalize CD 
+Wait to add in make up stuents
 *** Kennedy HS 
 **** DONE Completed Retouching images
      CLOSED: [2020-01-14 Tue 11:55]
@@ -47,7 +38,6 @@
      CLOSED: [2020-01-14 Tue 13:40]
 **** DONE Finalize Retouching 
      CLOSED: [2020-01-16 Thu 09:35]
-      Stopped on Nieve_Ashlynn
 **** TODO Finalize CD
 *** Foothill HS
 **** DONE Completed Retouching images
@@ -64,15 +54,35 @@
 **** DONE Cropping
      CLOSED: [2020-01-16 Thu 15:17]
 **** TODO Send Leisl PDF Proof
+Wait to add in make up stuents
     DEADLINE: <2020-01-22 Wed>
 *** San Ramon High School
 **** DONE Retouching
      CLOSED: [2020-01-16 Thu 14:16]
-**** TODO Cropping
+**** DONE Cropping
+     CLOSED: [2020-01-21 Tue 09:32]
 **** TODO Send Leisl PDF Prood
+Wait to add in make up stuents
     DEADLINE: <2020-01-22 Wed>
 *** Arroyo HS
-    DEADLINE: <2020-01-23 Thu>
+**** DONE Retouching
+     CLOSED: [2020-01-21 Tue 09:33]
+**** DONE Cropping
+     CLOSED: [2020-01-21 Tue 09:33]
+**** TODO Send Leisl PDF Prood
+    DEADLINE: <2020-01-22 Wed>
+*** DONE Amador Valley HS
+    CLOSED: [2020-01-21 Tue 09:31]
+**** DONE Retouching batch
+     CLOSED: [2020-01-13 Mon 11:45]
+**** DONE Cropping 
+     CLOSED: [2020-01-13 Mon 11:46]
+**** DONE Send Leisl PDF
+     CLOSED: [2020-01-13 Mon 11:46]
+**** DONE Finalize Retouching 
+     CLOSED: [2020-01-14 Tue 16:07]
+**** DONE Finalize CD
+CLOSED: [2020-01-21 Tue 09:37]
 *** DONE California Crosspoint
     CLOSED: [2020-01-09 Thu 12:07]
 *** DONE Washington HS
