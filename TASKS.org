@@ -65,11 +65,10 @@ Wait to add in make up stuents
      CLOSED: [2020-01-16 Thu 14:16]
 **** DONE Cropping
      CLOSED: [2020-01-21 Tue 09:32]
-**** TODO Send Leisl PDF Prood
-Wait to add in make up stuents
-    DEADLINE: <2020-01-22 Wed>
-**** TODO Finalize Retouching 
-
+**** DONE Send Leisl PDF Prood
+     CLOSED: [2020-01-22 Wed 09:39]
+**** DONE Finalize Retouching                                    
+     CLOSED: [2020-01-22 Wed 10:30]
 **** TODO Finalize CD
 *** Arroyo HS
 **** DONE Retouching
@@ -99,22 +98,26 @@ CLOSED: [2020-01-21 Tue 09:37]
     DEADLINE: <2020-01-16 Thu>
     Sent Leisl dropbox link on 01/09/2020
     CLOSED: [2020-01-03 Fri 11:41]
-** TODO Late Pays
+** Late Pays
 ** TODO Panos
 *** TODO Make Kennedy HS Pano Flyer and IQ Link. 
-*** TODO Northgate HS
+*** HOLD Northgate HS
     Sent proof to lab on 01/09/2020
-*** TODO Clayton Valley Charter
+*** HOLD Clayton Valley Charter
     Order as soon as you can.
-*** TODO Acalanes HS
+*** HOLD Acalanes HS
 *** DONE Dougherty Valley HS
     CLOSED: [2020-01-14 Tue 10:05]
      Order as soon as you can.
-** TODO St Raymond 8th Grade Yearbook
+** HOLD St Raymond 8th Grade Yearbook
 *** DONE Sent Leisl an updated list on 01/02/2020 
 *** DONE Sent Leisl a composite Proof. 
     CLOSED: [2020-01-16 Thu 15:26]
 ** HS Sports
+*** WORKING Castro Valley Girls Basketball 
+*** TODO Castro Valley Girls Soccer 
+*** DONE Washington HS Cheer 
+    CLOSED: [2020-01-22 Wed 11:36]
 *** DONE DVHS Band 
     CLOSED: [2020-01-14 Tue 13:39]
 *** DONE DVHS Boys and Girls Basketball 

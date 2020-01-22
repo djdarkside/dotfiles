@@ -143,6 +143,7 @@ values."
    ;; Press <SPC> T n to cycle to the next theme in the list (works great
    ;; with 2 themes variants, one dark and one light)
    dotspacemacs-themes '(
+                         sanityinc-solarized-dark
                          ample
                          solarized-wombat-dark
                          darkokai
@@ -338,8 +339,17 @@ values."
   ;;Added Packages/Layers
 
   ;;ORG-MODE
-  ;;(setq-default org-hide-leading-stars t)
-  ;;(setq-default org-indent-mode t)
+  ;;Changing font and size of outlines in Org-Mode
+  (custom-set-faces
+   '(org-level-1 ((t (:inherit outline-1 :height 1.4))))
+   '(org-level-2 ((t (:inherit outline-2 :height 1.3))))
+   '(org-level-3 ((t (:inherit outline-3 :height 1.2))))
+   '(org-level-4 ((t (:inherit outline-4 :height 1.1))))
+   '(org-level-5 ((t (:inherit outline-5 :height 1.0))))
+   )
+  ;;TODO Keywords in Org-Mode
+  (setq org-todo-keywords
+        '((sequence "TODO" "WORKING" "HOLD" "|" "DONE" "DELEGATED")))
  )
 ;; Do not write anything past this comment. This is where Emacs will
 ;; auto-generate custom variable definitions.
