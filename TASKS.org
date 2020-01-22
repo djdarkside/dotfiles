@@ -13,7 +13,6 @@
 *** Look into purchasing a new bed
 **** Must be King Size not Cal King
 * Studio One TODO List
-** TODO Auto-Book Las Lomas and Print Envelopes. 
 ** Senior 2020 Yearbook CDs
 *** Castro Valley HS 
 **** DONE Completed Retouching batch
@@ -46,16 +45,21 @@ Wait to add in make up stuents
      CLOSED: [2020-01-14 Tue 13:16]
 **** DONE Send Leisl PDF
      CLOSED: [2020-01-16 Thu 10:35]
-**** TODO Finalize retouching
+**** DONE Finalize retouching
+     CLOSED: [2020-01-21 Tue 15:27]
 **** TODO Finalize CD
 *** Campolindo HS
 **** DONE Retouching
      CLOSED: [2020-01-16 Thu 11:58]
 **** DONE Cropping
      CLOSED: [2020-01-16 Thu 15:17]
-**** TODO Send Leisl PDF Proof
+**** DONE Send Leisl PDF Proof
+     CLOSED: [2020-01-21 Tue 15:27]
 Wait to add in make up stuents
     DEADLINE: <2020-01-22 Wed>
+**** DONE Finalize Retouching
+     CLOSED: [2020-01-21 Tue 15:28]
+**** TODO Finalize CD
 *** San Ramon High School
 **** DONE Retouching
      CLOSED: [2020-01-16 Thu 14:16]
@@ -64,6 +68,9 @@ Wait to add in make up stuents
 **** TODO Send Leisl PDF Prood
 Wait to add in make up stuents
     DEADLINE: <2020-01-22 Wed>
+**** TODO Finalize Retouching 
+
+**** TODO Finalize CD
 *** Arroyo HS
 **** DONE Retouching
      CLOSED: [2020-01-21 Tue 09:33]
@@ -71,6 +78,9 @@ Wait to add in make up stuents
      CLOSED: [2020-01-21 Tue 09:33]
 **** TODO Send Leisl PDF Prood
     DEADLINE: <2020-01-22 Wed>
+**** DONE Finalize Retouching 
+     CLOSED: [2020-01-21 Tue 15:28]
+**** TODO Finalize CD
 *** DONE Amador Valley HS
     CLOSED: [2020-01-21 Tue 09:31]
 **** DONE Retouching batch
@@ -107,8 +117,6 @@ CLOSED: [2020-01-21 Tue 09:37]
 ** HS Sports
 *** DONE DVHS Band 
     CLOSED: [2020-01-14 Tue 13:39]
-**** DONE Just sent updated Band Names to Leisl 
-     CLOSED: [2020-01-08 Wed 09:45]
 *** DONE DVHS Boys and Girls Basketball 
     CLOSED: [2020-01-15 Wed 10:47]
 *** DONE Foothill HS Boys Soccer
@@ -120,6 +128,8 @@ CLOSED: [2020-01-21 Tue 09:37]
 ** Look into [[https://www.flipsnack.com/][Flipstack]] online catalog for Senior Orders. 
 ** Create a message system or wordpress site for the Studio 
    Wordpress intranet, should be pretty easy to implement using WAMP
+** DONE Auto-Book Las Lomas and Print Envelopes. 
+   CLOSED: [2020-01-21 Tue 15:27]
 ** DONE Clayton Valley Charter UC Images
    CLOSED: [2020-01-15 Wed 11:23]
 *** Need Powerschool and Renamed To ID 
