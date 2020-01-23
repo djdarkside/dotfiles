@@ -49,6 +49,7 @@ Wait to add in make up stuents
      CLOSED: [2020-01-21 Tue 15:27]
 **** TODO Finalize CD
 *** Campolindo HS
+    Need to Change Julia Parsons Yearbook Image to Pose 11
 **** DONE Retouching
      CLOSED: [2020-01-16 Thu 11:58]
 **** DONE Cropping
@@ -100,12 +101,14 @@ CLOSED: [2020-01-21 Tue 09:37]
     CLOSED: [2020-01-03 Fri 11:41]
 ** Late Pays
 ** TODO Panos
-*** TODO Make Kennedy HS Pano Flyer and IQ Link. 
 *** HOLD Northgate HS
     Sent proof to lab on 01/09/2020
 *** HOLD Clayton Valley Charter
     Order as soon as you can.
 *** HOLD Acalanes HS
+*** DONE Make Kennedy HS Pano Flyer and IQ Link. 
+    CLOSED: [2020-01-22 Wed 14:25]
+    Sent Leisl pano link and pdf flyer.
 *** DONE Dougherty Valley HS
     CLOSED: [2020-01-14 Tue 10:05]
      Order as soon as you can.
@@ -114,8 +117,10 @@ CLOSED: [2020-01-21 Tue 09:37]
 *** DONE Sent Leisl a composite Proof. 
     CLOSED: [2020-01-16 Thu 15:26]
 ** HS Sports
-*** WORKING Castro Valley Girls Basketball 
-*** TODO Castro Valley Girls Soccer 
+*** DONE Castro Valley Girls Basketball 
+    CLOSED: [2020-01-22 Wed 14:03]
+*** DONE Castro Valley Girls Soccer 
+    CLOSED: [2020-01-22 Wed 14:03]
 *** DONE Washington HS Cheer 
     CLOSED: [2020-01-22 Wed 11:36]
 *** DONE DVHS Band 
