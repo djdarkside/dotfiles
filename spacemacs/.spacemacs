@@ -350,6 +350,8 @@ values."
   ;;TODO Keywords in Org-Mode
   (setq org-todo-keywords
         '((sequence "TODO" "WORKING" "HOLD" "|" "DONE" "DELEGATED")))
+  ;;Org-Agenda Files
+  (setq org-agenda-files (list "/media/sf_org/TASKS.org"))
  )
 ;; Do not write anything past this comment. This is where Emacs will
 ;; auto-generate custom variable definitions.

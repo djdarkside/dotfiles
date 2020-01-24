@@ -23,44 +23,8 @@
      CLOSED: [2020-01-14 Tue 11:55] 
 **** DONE Finalize Retouching 
      CLOSED: [2020-01-15 Wed 14:48]
-     :PROPERTIES:
-     :ID:       950d3d28-c726-4313-a7ba-c974b487556a
-     :END:
 **** TODO Finalize CD 
 Wait to add in make up stuents
-*** Kennedy HS 
-**** DONE Completed Retouching images
-     CLOSED: [2020-01-14 Tue 11:55]
-**** DONE Completed Cropping images.
-     CLOSED: [2020-01-14 Tue 11:55] 
-**** DONE Send Leisl PDF Proof 
-     CLOSED: [2020-01-14 Tue 13:40]
-**** DONE Finalize Retouching 
-     CLOSED: [2020-01-16 Thu 09:35]
-**** TODO Finalize CD
-*** Foothill HS
-**** DONE Completed Retouching images
-     CLOSED: [2020-01-14 Tue 11:56]
-**** DONE Cropping 
-     CLOSED: [2020-01-14 Tue 13:16]
-**** DONE Send Leisl PDF
-     CLOSED: [2020-01-16 Thu 10:35]
-**** DONE Finalize retouching
-     CLOSED: [2020-01-21 Tue 15:27]
-**** TODO Finalize CD
-*** Campolindo HS
-    Need to Change Julia Parsons Yearbook Image to Pose 11
-**** DONE Retouching
-     CLOSED: [2020-01-16 Thu 11:58]
-**** DONE Cropping
-     CLOSED: [2020-01-16 Thu 15:17]
-**** DONE Send Leisl PDF Proof
-     CLOSED: [2020-01-21 Tue 15:27]
-Wait to add in make up stuents
-    DEADLINE: <2020-01-22 Wed>
-**** DONE Finalize Retouching
-     CLOSED: [2020-01-21 Tue 15:28]
-**** TODO Finalize CD
 *** San Ramon High School
 **** DONE Retouching
      CLOSED: [2020-01-16 Thu 14:16]
@@ -81,6 +45,44 @@ Wait to add in make up stuents
 **** DONE Finalize Retouching 
      CLOSED: [2020-01-21 Tue 15:28]
 **** TODO Finalize CD
+*** DONE Foothill HS
+CLOSED: [2020-01-23 Thu 12:21]
+**** DONE Completed Retouching images
+     CLOSED: [2020-01-14 Tue 11:56]
+**** DONE Cropping 
+     CLOSED: [2020-01-14 Tue 13:16]
+**** DONE Send Leisl PDF
+     CLOSED: [2020-01-16 Thu 10:35]
+**** DONE Finalize retouching
+     CLOSED: [2020-01-21 Tue 15:27]
+**** DONE Finalize CD
+CLOSED: [2020-01-23 Thu 12:21]
+*** DONE Kennedy HS 
+CLOSED: [2020-01-23 Thu 10:26]
+**** DONE Completed Retouching images
+     CLOSED: [2020-01-14 Tue 11:55]
+**** DONE Completed Cropping images.
+     CLOSED: [2020-01-14 Tue 11:55] 
+**** DONE Send Leisl PDF Proof 
+     CLOSED: [2020-01-14 Tue 13:40]
+**** DONE Finalize Retouching 
+     CLOSED: [2020-01-16 Thu 09:35]
+**** DONE Finalize CD
+CLOSED: [2020-01-23 Thu 10:26]
+*** DONE Campolindo HS
+CLOSED: [2020-01-23 Thu 10:26]
+**** DONE Retouching
+     CLOSED: [2020-01-16 Thu 11:58]
+**** DONE Cropping
+     CLOSED: [2020-01-16 Thu 15:17]
+**** DONE Send Leisl PDF Proof
+     CLOSED: [2020-01-21 Tue 15:27]
+Wait to add in make up stuents
+    DEADLINE: <2020-01-22 Wed>
+**** DONE Finalize Retouching
+     CLOSED: [2020-01-21 Tue 15:28]
+**** DONE Finalize CD
+CLOSED: [2020-01-23 Thu 10:26]
 *** DONE Amador Valley HS
     CLOSED: [2020-01-21 Tue 09:31]
 **** DONE Retouching batch
@@ -102,6 +104,7 @@ CLOSED: [2020-01-21 Tue 09:37]
 ** Late Pays
 ** TODO Panos
 *** HOLD Northgate HS
+SCHEDULED: <2020-01-30 Thu>
     Sent proof to lab on 01/09/2020
 *** HOLD Clayton Valley Charter
     Order as soon as you can.
@@ -179,12 +182,12 @@ CLOSED: [2020-01-21 Tue 09:37]
 
 * Studio Plus TODO List 
 ** TODO Ask about removing the ability to log users off.
-
 * MISC and LEARNING ORG MODE 
 ** TODO Shift M Enter creates another 
-** DONE Cycles C-c, C-t adds done with time stamps
+** [[www.orgmode.org/worg/org-tutorials/orgtutorial_dto.html][Agenda Tutorial Info]] 
+** DONE Cycles C-c, C-t adds done with time stamps                 :ARCHIVE:
    CLOSED: [2020-01-02 Thu 20:40] 
-** DONE Shift arrows to alter time stamps, date time, ext.
+** DONE Shift arrows to alter time stamps, date time, ext.         :ARCHIVE:
    CLOSED: [2020-01-02 Thu 20:40]
-
+** 
 
