@@ -6,11 +6,22 @@
 *** Take a walk every 2 hours. 
 *** Drink lots of water
 ** SCHOOL
-*** Look it Getting Books For Spring Semester. 
-*** Talk with Leisl and Robbie about Monday and Wednesday Scheduleing
-*** Pay Tuition 
+*** TODO Look it Getting Books For Spring Semester. 
+*** TODO Pay Tuition 
+*** DONE Talk with Leisl and Robbie about Monday and Wednesday Scheduleing
+CLOSED: [2020-01-24 Fri 10:09]
 ** HOME
-*** Look into purchasing a new bed
+*** TODO Clean appartment 
+SCHEDULED: <2020-01-25 Sat>
+*** TODO Call State Farm  
+SCHEDULED: <2020-01-28 Tue>
+Need to remove BofA off of my policy as they are no longer the lean holder
+*** TODO Go to AAA 
+SCHEDULED: <2020-02-01 Sat>
+Remove BofA From Car Title
+*** TODO Go to IKEA and look for a new desk 
+SCHEDULED: <2020-02-01 Sat>
+*** HOLD Look into purchasing a new bed
 **** Must be King Size not Cal King
 * Studio One TODO List
 ** Senior 2020 Yearbook CDs
@@ -25,7 +36,21 @@
      CLOSED: [2020-01-15 Wed 14:48]
 **** TODO Finalize CD 
 Wait to add in make up stuents
-*** San Ramon High School
+*** Acalanes HS
+*** Las Lomas HS 
+*** Clayton Valley HS 
+*** Arroyo HS
+**** DONE Retouching
+     CLOSED: [2020-01-21 Tue 09:33]
+**** DONE Cropping
+     CLOSED: [2020-01-21 Tue 09:33]
+**** DONE Send Leisl PDF Prood
+    CLOSED: [2020-01-24 Fri 10:13] 
+**** DONE Finalize Retouching 
+     CLOSED: [2020-01-21 Tue 15:28]
+**** TODO Finalize CD
+*** DONE San Ramon High School
+    CLOSED: [2020-01-24 Fri 09:22]
 **** DONE Retouching
      CLOSED: [2020-01-16 Thu 14:16]
 **** DONE Cropping
@@ -34,17 +59,8 @@ Wait to add in make up stuents
      CLOSED: [2020-01-22 Wed 09:39]
 **** DONE Finalize Retouching                                    
      CLOSED: [2020-01-22 Wed 10:30]
-**** TODO Finalize CD
-*** Arroyo HS
-**** DONE Retouching
-     CLOSED: [2020-01-21 Tue 09:33]
-**** DONE Cropping
-     CLOSED: [2020-01-21 Tue 09:33]
-**** TODO Send Leisl PDF Prood
-    DEADLINE: <2020-01-22 Wed>
-**** DONE Finalize Retouching 
-     CLOSED: [2020-01-21 Tue 15:28]
-**** TODO Finalize CD
+**** DONE Finalize CD
+     CLOSED: [2020-01-24 Fri 09:22]
 *** DONE Foothill HS
 CLOSED: [2020-01-23 Thu 12:21]
 **** DONE Completed Retouching images
@@ -77,8 +93,6 @@ CLOSED: [2020-01-23 Thu 10:26]
      CLOSED: [2020-01-16 Thu 15:17]
 **** DONE Send Leisl PDF Proof
      CLOSED: [2020-01-21 Tue 15:27]
-Wait to add in make up stuents
-    DEADLINE: <2020-01-22 Wed>
 **** DONE Finalize Retouching
      CLOSED: [2020-01-21 Tue 15:28]
 **** DONE Finalize CD
@@ -101,8 +115,13 @@ CLOSED: [2020-01-21 Tue 09:37]
     DEADLINE: <2020-01-16 Thu>
     Sent Leisl dropbox link on 01/09/2020
     CLOSED: [2020-01-03 Fri 11:41]
+** Senior Digital Specials
+*** DONE Kim, Jacobs AMA
+CLOSED: [2020-01-24 Fri 11:01]
 ** Late Pays
-** TODO Panos
+*** DONE 01/24/2020
+CLOSED: [2020-01-24 Fri 12:39]
+** Panos
 *** HOLD Northgate HS
 SCHEDULED: <2020-01-30 Thu>
     Sent proof to lab on 01/09/2020
@@ -139,6 +158,8 @@ SCHEDULED: <2020-01-30 Thu>
 ** Look into [[https://www.flipsnack.com/][Flipstack]] online catalog for Senior Orders. 
 ** Create a message system or wordpress site for the Studio 
    Wordpress intranet, should be pretty easy to implement using WAMP
+** DONE Autobook Alameda Seniors for On Campus 
+CLOSED: [2020-01-24 Fri 11:26]
 ** DONE Auto-Book Las Lomas and Print Envelopes. 
    CLOSED: [2020-01-21 Tue 15:27]
 ** DONE Clayton Valley Charter UC Images
@@ -178,16 +199,22 @@ SCHEDULED: <2020-01-30 Thu>
 ** DONE Send Clayton Valley HS Scheduleing Email
    CLOSED: [2020-01-02 Thu 20:37]
 ** DONE Print Acalanes HS Leadership ID Cards
-   CLOSED: [2020-01-02 Thu 20:37]
+CLOSED: [2020-01-02 Thu 20:37]
 
-* Studio Plus TODO List 
+* STUDIO Plus TODO List 
 ** TODO Ask about removing the ability to log users off.
 * MISC and LEARNING ORG MODE 
 ** TODO Shift M Enter creates another 
+   :PROPERTIES:
+   :ID:       ebc47733-3a64-4901-a729-832ce890e94a
+   :END:
 ** [[www.orgmode.org/worg/org-tutorials/orgtutorial_dto.html][Agenda Tutorial Info]] 
 ** DONE Cycles C-c, C-t adds done with time stamps                 :ARCHIVE:
    CLOSED: [2020-01-02 Thu 20:40] 
 ** DONE Shift arrows to alter time stamps, date time, ext.         :ARCHIVE:
    CLOSED: [2020-01-02 Thu 20:40]
-** 
+** Rebinded F12 for instant agenda view in org mode 
+   :LOGBOOK:
+   CLOCK: [2020-01-24 Fri 14:04]--[2020-01-24 Fri 14:04] =>  0:00
+   :END:
 

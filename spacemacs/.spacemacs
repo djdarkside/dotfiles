@@ -336,9 +336,10 @@ values."
   (spacemacs/set-leader-keys "ot" 'neotree-toggle)
   (spacemacs/set-leader-keys "ok" 'helm-show-kill-ring)
 
-  ;;Added Packages/Layers
-
   ;;ORG-MODE
+  ;;org-mode key rebinds
+  (evil-define-key 'normal org-mode-map (kbd "<f12>") 'org-agenda)
+
   ;;Changing font and size of outlines in Org-Mode
   (custom-set-faces
    '(org-level-1 ((t (:inherit outline-1 :height 1.4))))
@@ -347,9 +348,11 @@ values."
    '(org-level-4 ((t (:inherit outline-4 :height 1.1))))
    '(org-level-5 ((t (:inherit outline-5 :height 1.0))))
    )
+
   ;;TODO Keywords in Org-Mode
   (setq org-todo-keywords
         '((sequence "TODO" "WORKING" "HOLD" "|" "DONE" "DELEGATED")))
+
   ;;Org-Agenda Files
   (setq org-agenda-files (list "/media/sf_org/TASKS.org"))
  )
