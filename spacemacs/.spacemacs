@@ -328,7 +328,7 @@ values."
   ;;Tab-width
   (setq-default indent-tabs-mode nil)
   (setq-default tab-width 4)
-  
+
   ;;HOTKEYS
   (spacemacs/declare-prefix "o" "-USER-")
   (spacemacs/declare-prefix "ob" "BOOKMARKS")

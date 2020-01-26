@@ -1,6 +1,7 @@
 #+STARTUP: indent
 #+title: Mitchell's Task List
 #+DESCRIPTION: ORG-MODE task list
+#+ARCHIVE: %s_archieve::
 
 * Personal TODO List 
 ** Daily Tasks and Routines 
