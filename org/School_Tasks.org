@@ -1,0 +1,6 @@
+#+STARTUP: indent
+#+title: Mitchell's School Task List
+#+DESCRIPTION: School Tasks
+
+* Math Todo Lists
+* Anthropogy Todo Lists

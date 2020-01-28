@@ -27,20 +27,17 @@ SCHEDULED: <2020-02-01 Sat>
 **** Must be King Size not Cal King
 * Studio One TODO List
 ** Senior 2020 Yearbook CDs
-*** Castro Valley HS 
-**** DONE Completed Retouching batch
-     CLOSED: [2020-01-14 Tue 11:55]
-**** DONE Completed Cropping
-     CLOSED: [2020-01-14 Tue 11:55]
-**** DONE Sent Leisl PDF Proof
-     CLOSED: [2020-01-14 Tue 11:55] 
-**** DONE Finalize Retouching 
-     CLOSED: [2020-01-15 Wed 14:48]
-**** TODO Finalize CD 
-Wait to add in make up stuents
+*** Las Lomas HS
+**** DONE Pull Images 
+CLOSED: [2020-01-27 Mon 16:23]
+**** DONE Retouch Images
+CLOSED: [2020-01-27 Mon 16:32]
+**** TODO Crop Images
+*** Clayton Valley HS
+**** TODO Pull Images 
+**** TODO Retouch Image
+**** TODO Crop Images
 *** Acalanes HS
-*** Las Lomas HS 
-*** Clayton Valley HS 
 *** Arroyo HS
 **** DONE Retouching
      CLOSED: [2020-01-21 Tue 09:33]
@@ -51,6 +48,19 @@ Wait to add in make up stuents
 **** DONE Finalize Retouching 
      CLOSED: [2020-01-21 Tue 15:28]
 **** TODO Finalize CD
+*** DONE Castro Valley HS 
+CLOSED: [2020-01-27 Mon 13:49]
+**** DONE Completed Retouching batch
+     CLOSED: [2020-01-14 Tue 11:55]
+**** DONE Completed Cropping
+     CLOSED: [2020-01-14 Tue 11:55]
+**** DONE Sent Leisl PDF Proof
+     CLOSED: [2020-01-14 Tue 11:55] 
+**** DONE Finalize Retouching 
+     CLOSED: [2020-01-15 Wed 14:48]
+**** DONE Finalize CD 
+CLOSED: [2020-01-27 Mon 13:49]
+Wait to add in make up stuents
 *** DONE San Ramon High School
     CLOSED: [2020-01-24 Fri 09:22]
 **** DONE Retouching
@@ -146,6 +156,14 @@ SCHEDULED: <2020-01-30 Thu>
 *** DONE Sent Leisl a composite Proof. 
     CLOSED: [2020-01-16 Thu 15:26]
 ** HS Sports
+*** DONE Foothill Girls Basketball
+CLOSED: [2020-01-27 Mon 14:55]
+*** DONE Foothill Boys Basketball
+CLOSED: [2020-01-27 Mon 14:55]
+*** DONE Dublin HS Boys Soccer
+CLOSED: [2020-01-27 Mon 14:12]
+*** DONE Cal Softball 
+CLOSED: [2020-01-27 Mon 13:33]
 *** DONE Castro Valley Girls Basketball 
     CLOSED: [2020-01-22 Wed 14:03]
 *** DONE Castro Valley Girls Soccer 
@@ -207,6 +225,9 @@ CLOSED: [2020-01-24 Fri 11:26]
    CLOSED: [2020-01-02 Thu 20:37]
 ** DONE Print Acalanes HS Leadership ID Cards
 CLOSED: [2020-01-02 Thu 20:37]
+:PROPERTIES:
+:ID:       1f36fd5f-87ae-40ff-a08a-ab06c53e4821
+:END:
 
 * STUDIO Plus TODO List 
 ** TODO Ask about removing the ability to log users off.
