@@ -2,5 +2,15 @@
 #+title: Mitchell's School Task List
 #+DESCRIPTION: School Tasks
 
-* Math Todo Lists
+* General School Tasks 
+** TODO Pay School Tuition
+ Cost is $375.00
+** TODO Look into buying a tablet
+ $200.00 max budget
+
+* Math Todo List
+** TODO MATH - Complete Week 1 Homework
 * Anthropogy Todo Lists
+** TODO ATL - Complete Week 1 Homework 
+** DONE ATL - Buy books
+CLOSED: [2020-01-28 Tue 09:56]

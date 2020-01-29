@@ -9,7 +9,6 @@
 *** Drink lots of water
 ** SCHOOL
 *** TODO Look it Getting Books For Spring Semester. 
-*** TODO Pay Tuition 
 *** DONE Talk with Leisl and Robbie about Monday and Wednesday Scheduleing
 CLOSED: [2020-01-24 Fri 10:09]
 ** HOME
@@ -32,9 +31,16 @@ SCHEDULED: <2020-02-01 Sat>
 CLOSED: [2020-01-27 Mon 16:23]
 **** DONE Retouch Images
 CLOSED: [2020-01-27 Mon 16:32]
-**** TODO Crop Images
+**** DONE Crop Images
+CLOSED: [2020-01-27 Mon 18:09]
+**** DONE Send PDF Proof
+CLOSED: [2020-01-28 Tue 12:25]
+**** DONE Finalize Retouching 
+CLOSED: [2020-01-28 Tue 12:25]
+**** TODO Finalize CD
 *** Clayton Valley HS
-**** TODO Pull Images 
+**** DONE Pull Images 
+CLOSED: [2020-01-28 Tue 14:41]
 **** TODO Retouch Image
 **** TODO Crop Images
 *** Acalanes HS
@@ -152,9 +158,13 @@ SCHEDULED: <2020-01-30 Thu>
     CLOSED: [2020-01-14 Tue 10:05]
      Order as soon as you can.
 ** HOLD St Raymond 8th Grade Yearbook
+Sent Second proof on 1/28/2020 after name corrections.
 *** DONE Sent Leisl an updated list on 01/02/2020 
 *** DONE Sent Leisl a composite Proof. 
     CLOSED: [2020-01-16 Thu 15:26]
+*** DONE Make corrections to names from School
+CLOSED: [2020-01-28 Tue 12:39]
+*** TODO Order Prints with composite
 ** HS Sports
 *** DONE Foothill Girls Basketball
 CLOSED: [2020-01-27 Mon 14:55]
@@ -183,6 +193,10 @@ CLOSED: [2020-01-27 Mon 13:33]
 ** Look into [[https://www.flipsnack.com/][Flipstack]] online catalog for Senior Orders. 
 ** Create a message system or wordpress site for the Studio 
    Wordpress intranet, should be pretty easy to implement using WAMP
+** DONE Print Financial Reports from UC 19-20 
+CLOSED: [2020-01-28 Tue 14:44]
+** DONE Print DVHS Access Pass for "Watkin" 20 
+CLOSED: [2020-01-27 Mon 18:23]
 ** DONE Autobook Alameda Seniors for On Campus 
 CLOSED: [2020-01-24 Fri 11:26]
 ** DONE Auto-Book Las Lomas and Print Envelopes. 
