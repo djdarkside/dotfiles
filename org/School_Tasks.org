@@ -10,7 +10,26 @@
 
 * Math Todo List
 ** TODO MATH - Complete Week 1 Homework
+1.1:  3, 7, 9, 11, 27, 31, 34, 47, 63
+
+1.2:  3, 4, 7, 10, 15
+
+1.3:  1, 3, 5, 9, 17, 24, 27, 35, 51
+
+1.4:  1, 3, 9, 13, 17, 21, 31
+
+1.5:  1, 3, 5, 15, 18, 35-38, 47, 51, 63
+
+2.1:  1, 3, 5, 6
+
+Review, review, review!  This first week is mainly a whirlwind review of precalculus and algebra concepts and strategies, 
+to make sure you remember your Encyclopedia of Functions.  Having this stuff solid will make the rest of the class go much smoother.  
+Don't worry; I'll still be teasing some more calculus concepts this week, too!
+
 * Anthropogy Todo Lists
 ** TODO ATL - Complete Week 1 Homework 
 ** DONE ATL - Buy books
 CLOSED: [2020-01-28 Tue 09:56]
+:PROPERTIES:
+:ID:       b529c260-12fb-408a-b598-33941b7eadf8
+:END:

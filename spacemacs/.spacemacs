@@ -97,7 +97,7 @@ values."
    ;; If non nil ELPA repositories are contacted via HTTPS whenever it's
    ;; possible. Set it to nil if you have no way to use HTTPS in your
    ;; environment, otherwise it is strongly recommended to let it set to t.
-   ;; This variable has no effect if Emacs is launched with the parameter
+   ;;  This variable has no effect if Emacs is launched with the parameter
    ;; `--insecure' which forces the value of this variable to nil.
    ;; (default t)
    dotspacemacs-elpa-https t
@@ -356,6 +356,7 @@ values."
 
   ;;Org-Agenda Files
   (setq org-agenda-files (quote ("/media/sf_org/TASKS.org"
+                                 "/media/sf.org/TASKS.org_archieve"
                                  "/media/sf_org/School_Tasks.org")))
  )
 ;; Do not write anything past this comment. This is where Emacs will
