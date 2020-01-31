@@ -1,6 +1,7 @@
 #+STARTUP: indent
 #+title: Mitchell's School Task List
 #+DESCRIPTION: School Tasks
+#+ARCHIVE: %s_Archieve::
 
 * General School Tasks 
 ** TODO GST - Pay School Tuition
@@ -11,6 +12,7 @@ CLOSED: [2020-01-30 Thu 09:58]
 
 * Math Todo List
 ** TODO MATH - Complete Week 1 Homework
+DEADLINE: <2020-02-03 Mon> 
 1.1:  3, 7, 9, 11, 27, 31, 34, 47, 63
 
 1.2:  3, 4, 7, 10, 15
@@ -32,6 +34,7 @@ Be able to identify what a graph function is.
 
 * Anthropogy Todo Lists
 ** TODO ATL - Complete Week 1 Homework 
+DEADLINE: <2020-02-03 Mon>
 ** DONE ATL - Buy books
 CLOSED: [2020-01-28 Tue 09:56]
 :PROPERTIES:
