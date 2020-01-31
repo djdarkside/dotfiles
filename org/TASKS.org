@@ -1,6 +1,6 @@
 #+STARTUP: indent
 #+title: Mitchell's Task List
-#+DESCRIPTION: ORG-MODE task list
+#+DESCRIPTION: General Task List
 #+ARCHIVE: %s_archieve::
 
 * Personal TODO List 
@@ -25,6 +25,17 @@ SCHEDULED: <2020-02-01 Sat>
 *** HOLD Look into purchasing a new bed
 **** Must be King Size not Cal King
 * Studio One TODO List
+** Senior Digital Specials
+*** TODO Panwar, Sonta
+Remove braces
+*** TODO Ba, Sherry - Headshot 
+*** DONE Kim, Jacobs AMA
+CLOSED: [2020-01-24 Fri 11:01]
+*** DONE Yuen, Octrina MISC 
+CLOSED: [2020-01-24 Fri 14:26]
+:LOGBOOK:
+CLOCK: [2020-01-24 Fri 14:19]--[2020-01-24 Fri 14:26] =>  0:07
+:END:
 ** Senior 2020 Yearbook CDs
 *** Las Lomas HS
 **** DONE Pull Images 
@@ -41,9 +52,24 @@ CLOSED: [2020-01-28 Tue 12:25]
 *** Clayton Valley HS
 **** DONE Pull Images 
 CLOSED: [2020-01-28 Tue 14:41]
-**** TODO Retouch Image
-**** TODO Crop Images
+**** DONE Retouch Image
+CLOSED: [2020-01-29 Wed 15:20]
+**** DONE Crop Images
+CLOSED: [2020-01-29 Wed 15:21]
+**** DONE Finalize Retouching
+CLOSED: [2020-01-30 Thu 11:12]
+**** TODO Finalize CD
+**** TODO Send PDF Proof
 *** Acalanes HS
+**** DONE Pull Images 
+CLOSED: [2020-01-30 Thu 11:30]
+**** DONE Retouch Images
+CLOSED: [2020-01-30 Thu 12:35]
+**** DONE Crop Images
+CLOSED: [2020-01-30 Thu 15:08]
+**** TODO Finalize Retouching
+**** TODO Send PDF Proof
+**** TODO Finalize CD
 *** Arroyo HS
 **** DONE Retouching
      CLOSED: [2020-01-21 Tue 09:33]
@@ -105,6 +131,9 @@ CLOSED: [2020-01-23 Thu 10:26]
 CLOSED: [2020-01-23 Thu 10:26]
 *** DONE Campolindo HS
 CLOSED: [2020-01-23 Thu 10:26]
+:PROPERTIES:
+:ID:       c2ff22c5-c6e9-4d95-9db1-95ad62ce1749
+:END:
 **** DONE Retouching
      CLOSED: [2020-01-16 Thu 11:58]
 **** DONE Cropping
@@ -131,16 +160,29 @@ CLOSED: [2020-01-21 Tue 09:37]
     CLOSED: [2020-01-09 Thu 12:07]
 *** DONE Washington HS
     DEADLINE: <2020-01-16 Thu>
+    :PROPERTIES:
+    :ID:       00e66dcb-0694-4a01-b8d6-c55ec133f4ab
+    :END:
     Sent Leisl dropbox link on 01/09/2020
     CLOSED: [2020-01-03 Fri 11:41]
-** Senior Digital Specials
-*** DONE Kim, Jacobs AMA
-CLOSED: [2020-01-24 Fri 11:01]
-*** DONE Yuen, Octrina MISC 
-CLOSED: [2020-01-24 Fri 14:26]
-:LOGBOOK:
-CLOCK: [2020-01-24 Fri 14:19]--[2020-01-24 Fri 14:26] =>  0:07
-:END:
+** DONE Add Las Lomas Staff to yearbook 
+CLOSED: [2020-01-30 Thu 15:39]
+** TODO Add Valley HS Senior 2020 Data into Stratus 
+** TODO St Raymond 8th Grade Yearbook
+Sent Second proof on 1/28/2020 after name corrections.
+Sent Another proof on 1/29/2020 after adding a second vp.
+Finally approved on 01/29/2020
+*** DONE Sent Leisl an updated list on 01/02/2020 
+*** DONE Sent Leisl a composite Proof. 
+    CLOSED: [2020-01-16 Thu 15:26]
+    :PROPERTIES:
+    :ID:       f60131fc-20fd-4fc6-9eb8-3841a413be3d
+    :END:
+*** DONE Make corrections to names from School
+CLOSED: [2020-01-28 Tue 12:39]
+*** TODO Order Prints with composite
+*** TODO Print 36x40 Print of Composite 
+** TODO Clean up online flyers on Photobiz  
 ** Late Pays
 *** DONE 01/24/2020
 CLOSED: [2020-01-24 Fri 12:39]
@@ -152,19 +194,12 @@ SCHEDULED: <2020-01-30 Thu>
     Order as soon as you can.
 *** HOLD Acalanes HS
 *** DONE Make Kennedy HS Pano Flyer and IQ Link. 
-    CLOSED: [2020-01-22 Wed 14:25]
+**** DONE Send Flyers by email 
+    CLOSED: [2020-01-30 Thu 11:21]
     Sent Leisl pano link and pdf flyer.
 *** DONE Dougherty Valley HS
     CLOSED: [2020-01-14 Tue 10:05]
      Order as soon as you can.
-** HOLD St Raymond 8th Grade Yearbook
-Sent Second proof on 1/28/2020 after name corrections.
-*** DONE Sent Leisl an updated list on 01/02/2020 
-*** DONE Sent Leisl a composite Proof. 
-    CLOSED: [2020-01-16 Thu 15:26]
-*** DONE Make corrections to names from School
-CLOSED: [2020-01-28 Tue 12:39]
-*** TODO Order Prints with composite
 ** HS Sports
 *** DONE Foothill Girls Basketball
 CLOSED: [2020-01-27 Mon 14:55]
@@ -219,8 +254,6 @@ CLOSED: [2020-01-24 Fri 11:26]
 ** DONE Print and Setup Clayton Valley Underclass Camera Cards 
    CLOSED: [2020-01-09 Thu 12:06]
    20 Students 
-** DONE [#A] TURN OFF FIREWALL FOR STRATUS ON CAMPUS ON 01/08/2020 
-   CLOSED: [2020-01-09 Thu 09:47]
 ** DONE Plan to Auto Book remaining Campolindo Seniors for on campus 
    CLOSED: [2020-01-08 Wed 09:47]
 ** DONE Print Senior Files for Campolindo and Clayton Valley 
@@ -235,14 +268,13 @@ CLOSED: [2020-01-24 Fri 11:26]
     CLOSED: [2020-01-08 Wed 13:35]
 ** DONE Check our USB Supply before Jan 10th for Chinese New Year delays. 
    CLOSED: [2020-01-06 Mon 12:14]
-** DONE Send Clayton Valley HS Scheduleing Email
-   CLOSED: [2020-01-02 Thu 20:37]
 ** DONE Print Acalanes HS Leadership ID Cards
 CLOSED: [2020-01-02 Thu 20:37]
 :PROPERTIES:
 :ID:       1f36fd5f-87ae-40ff-a08a-ab06c53e4821
 :END:
 
+** Archive                                                         :ARCHIVE:
 * STUDIO Plus TODO List 
 ** TODO Ask about removing the ability to log users off.
 * MISC and LEARNING ORG MODE 

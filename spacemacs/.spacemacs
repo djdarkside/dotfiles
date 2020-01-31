@@ -350,6 +350,16 @@ values."
    '(org-level-5 ((t (:inherit outline-5 :height 1.0))))
    )
 
+  ;;Remove line numbers in Org Mode
+  (defun nolinum ()
+    (interactive)
+    (message "Deactivated linum mode")
+    (global-linum-mode 0)
+    (linum-mode 0)
+    )
+  (global-set-key (kbd "<f6>") 'nolinum)
+  (add-hook 'org-mode-hook 'nolinum)
+
   ;;TODO Keywords in Org-Mode
   (setq org-todo-keywords
         '((sequence "TODO(t)" "WORKING(w)" "HOLD(h)" "|" "DONE(d)" "DELEGATED(d)")))

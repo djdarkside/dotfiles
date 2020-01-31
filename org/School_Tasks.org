@@ -3,9 +3,10 @@
 #+DESCRIPTION: School Tasks
 
 * General School Tasks 
-** TODO Pay School Tuition
+** TODO GST - Pay School Tuition
  Cost is $375.00
-** TODO Look into buying a tablet
+** DONE GST - Look into buying a tablet
+CLOSED: [2020-01-30 Thu 09:58]
  $200.00 max budget
 
 * Math Todo List
@@ -25,6 +26,9 @@
 Review, review, review!  This first week is mainly a whirlwind review of precalculus and algebra concepts and strategies, 
 to make sure you remember your Encyclopedia of Functions.  Having this stuff solid will make the rest of the class go much smoother.  
 Don't worry; I'll still be teasing some more calculus concepts this week, too!
+
+Study Transformations and what different graphs of functions look like.
+Be able to identify what a graph function is.
 
 * Anthropogy Todo Lists
 ** TODO ATL - Complete Week 1 Homework 
