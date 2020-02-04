@@ -12,8 +12,6 @@ CLOSED: [2020-01-31 Fri 10:48]
 *** DONE Talk with Leisl and Robbie about Monday and Wednesday Scheduleing
 CLOSED: [2020-01-24 Fri 10:09]
 ** HOME
-*** TODO Clean appartment 
-SCHEDULED: <2020-01-25 Sat>
 *** TODO Shread all old mail 
 SCHEDULED: <2020-02-01 Sat>
 *** TODO Call State Farm  
@@ -27,20 +25,11 @@ SCHEDULED: <2020-02-01 Sat>
 *** HOLD Look into purchasing a new bed
 **** Must be King Size not Cal King
 * Studio One TODO List
+:ARCHIVE: %s_archive::* Studio One TODO List 
 ** Senior Digital Specials
-*** DONE Panwar, Sonta
-CLOSED: [2020-01-31 Fri 09:58]
-Remove braces
-*** DONE Ba, Sherry - Headshot 
-CLOSED: [2020-01-31 Fri 09:57]
-*** DONE Kim, Jacobs AMA
-CLOSED: [2020-01-24 Fri 11:01]
-*** DONE Yuen, Octrina MISC 
-CLOSED: [2020-01-24 Fri 14:26]
-:LOGBOOK:
-CLOCK: [2020-01-24 Fri 14:19]--[2020-01-24 Fri 14:26] =>  0:07
-:END:
+:ARCHIVE: %s_archive::* Senior Digital Specials 
 ** Senior 2020 Yearbook CDs
+:ARCHIVE: %s_archive::* Senior 2020 Yearbook CDs
 *** Clayton Valley HS
 **** DONE Pull Images 
 CLOSED: [2020-01-28 Tue 14:41]
@@ -53,6 +42,18 @@ CLOSED: [2020-01-30 Thu 11:12]
 **** DONE Send PDF Proof
 CLOSED: [2020-01-31 Fri 10:37]
 **** TODO Finalize CD
+:PROPERTIES:
+:ID:       21568d52-95d4-4c3f-b73d-80d1b6a5852e
+:END:
+*** Alameda HS
+:PROPERTIES:
+:ID:       33deb962-4a0c-445f-b9e7-40d65e6ced20
+:END:
+**** DONE Pull Images
+CLOSED: [2020-02-04 Tue 10:23] SCHEDULED: <2020-02-04 Tue>
+**** DONE Retouch Images
+CLOSED: [2020-02-04 Tue 13:33]
+**** TODO Crop Images
 *** Acalanes HS
 **** DONE Pull Images 
 CLOSED: [2020-01-30 Thu 11:30]
@@ -62,163 +63,26 @@ CLOSED: [2020-01-30 Thu 12:35]
 CLOSED: [2020-01-30 Thu 15:08]
 **** DONE Finalize Retouching
 CLOSED: [2020-01-31 Fri 11:54] SCHEDULED: <2020-01-31 Fri>
-**** TODO Send PDF Proof
-SCHEDULED: <2020-01-31 Fri>
-**** TODO Finalize CD
-*** Arroyo HS
-**** DONE Retouching
-     CLOSED: [2020-01-21 Tue 09:33]
-**** DONE Cropping
-     CLOSED: [2020-01-21 Tue 09:33]
-**** DONE Send Leisl PDF Prood
-    CLOSED: [2020-01-24 Fri 10:13] 
-**** DONE Finalize Retouching 
-     CLOSED: [2020-01-21 Tue 15:28]
-**** TODO Finalize CD
-*** DONE Las Lomas HS
-CLOSED: [2020-01-31 Fri 10:05]
-**** DONE Pull Images 
-CLOSED: [2020-01-27 Mon 16:23]
-**** DONE Retouch Images
-CLOSED: [2020-01-27 Mon 16:32]
-**** DONE Crop Images
-CLOSED: [2020-01-27 Mon 18:09]
 **** DONE Send PDF Proof
-CLOSED: [2020-01-28 Tue 12:25]
-**** DONE Finalize Retouching 
-CLOSED: [2020-01-28 Tue 12:25]
-**** DONE Finalize CD
-CLOSED: [2020-01-31 Fri 10:05]
-*** DONE Castro Valley HS 
-CLOSED: [2020-01-27 Mon 13:49]
-**** DONE Completed Retouching batch
-     CLOSED: [2020-01-14 Tue 11:55]
-**** DONE Completed Cropping
-     CLOSED: [2020-01-14 Tue 11:55]
-**** DONE Sent Leisl PDF Proof
-     CLOSED: [2020-01-14 Tue 11:55] 
-**** DONE Finalize Retouching 
-     CLOSED: [2020-01-15 Wed 14:48]
-**** DONE Finalize CD 
-CLOSED: [2020-01-27 Mon 13:49]
-Wait to add in make up stuents
-*** DONE San Ramon High School
-    CLOSED: [2020-01-24 Fri 09:22]
-**** DONE Retouching
-     CLOSED: [2020-01-16 Thu 14:16]
-**** DONE Cropping
-     CLOSED: [2020-01-21 Tue 09:32]
-**** DONE Send Leisl PDF Prood
-     CLOSED: [2020-01-22 Wed 09:39]
-**** DONE Finalize Retouching                                    
-     CLOSED: [2020-01-22 Wed 10:30]
-**** DONE Finalize CD
-     CLOSED: [2020-01-24 Fri 09:22]
-*** DONE Foothill HS
-CLOSED: [2020-01-23 Thu 12:21]
-**** DONE Completed Retouching images
-     CLOSED: [2020-01-14 Tue 11:56]
-**** DONE Cropping 
-     CLOSED: [2020-01-14 Tue 13:16]
-**** DONE Send Leisl PDF
-     CLOSED: [2020-01-16 Thu 10:35]
-**** DONE Finalize retouching
-     CLOSED: [2020-01-21 Tue 15:27]
-**** DONE Finalize CD
-CLOSED: [2020-01-23 Thu 12:21]
-*** DONE Kennedy HS 
-CLOSED: [2020-01-23 Thu 10:26]
-:PROPERTIES:
-:ID:       413b5fb0-10f8-40ff-b28a-c44f3ea2cfe8
-:END:
-**** DONE Completed Retouching images
-     CLOSED: [2020-01-14 Tue 11:55]
-**** DONE Completed Cropping images.
-     CLOSED: [2020-01-14 Tue 11:55] 
-**** DONE Send Leisl PDF Proof 
-     CLOSED: [2020-01-14 Tue 13:40]
-**** DONE Finalize Retouching 
-     CLOSED: [2020-01-16 Thu 09:35]
-**** DONE Finalize CD
-CLOSED: [2020-01-23 Thu 10:26]
-*** DONE Campolindo HS
-CLOSED: [2020-01-23 Thu 10:26]
-:PROPERTIES:
-:ID:       c2ff22c5-c6e9-4d95-9db1-95ad62ce1749
-:END:
-**** DONE Retouching
-     CLOSED: [2020-01-16 Thu 11:58]
-**** DONE Cropping
-     CLOSED: [2020-01-16 Thu 15:17]
-**** DONE Send Leisl PDF Proof
-     CLOSED: [2020-01-21 Tue 15:27]
-**** DONE Finalize Retouching
-     CLOSED: [2020-01-21 Tue 15:28]
-**** DONE Finalize CD
-CLOSED: [2020-01-23 Thu 10:26]
-*** DONE Amador Valley HS
-    CLOSED: [2020-01-21 Tue 09:31]
-**** DONE Retouching batch
-     CLOSED: [2020-01-13 Mon 11:45]
-**** DONE Cropping 
-     CLOSED: [2020-01-13 Mon 11:46]
-**** DONE Send Leisl PDF
-     CLOSED: [2020-01-13 Mon 11:46]
-**** DONE Finalize Retouching 
-     CLOSED: [2020-01-14 Tue 16:07]
-**** DONE Finalize CD
-CLOSED: [2020-01-21 Tue 09:37]
-*** DONE California Crosspoint
-    CLOSED: [2020-01-09 Thu 12:07]
-*** DONE Washington HS
-    DEADLINE: <2020-01-16 Thu>
-    :PROPERTIES:
-    :ID:       00e66dcb-0694-4a01-b8d6-c55ec133f4ab
-    :END:
-    Sent Leisl dropbox link on 01/09/2020
-    CLOSED: [2020-01-03 Fri 11:41]
+CLOSED: [2020-02-03 Mon 14:26] SCHEDULED: <2020-02-04 Tue>
+**** TODO Finalize CD
 ** TODO Add Valley HS Senior 2020 Data into Stratus 
+SCHEDULED: <2020-02-04 Tue>
 ** TODO Clean up online flyers on Photobiz  
 ** Late Pays
-*** DONE 01/24/2020
-CLOSED: [2020-01-24 Fri 12:39]
-*** DONE 01/31/2020 
-CLOSED: [2020-01-31 Fri 12:08]
 ** Panos
+*** HOLD Kennedy HS Pano 
+SCHEDULED: <2020-02-06 Thu>
 *** HOLD Northgate HS
-SCHEDULED: <2020-01-30 Thu>
     Sent proof to lab on 01/09/2020
 *** HOLD Clayton Valley Charter
     Order as soon as you can.
 *** HOLD Acalanes HS
-*** DONE Make Kennedy HS Pano Flyer and IQ Link. 
-**** DONE Send Flyers by email 
-    CLOSED: [2020-01-30 Thu 11:21]
-    Sent Leisl pano link and pdf flyer.
-*** DONE Dougherty Valley HS
-    CLOSED: [2020-01-14 Tue 10:05]
-     Order as soon as you can.
 ** HS Sports
-*** DONE Foothill Girls Basketball
-CLOSED: [2020-01-27 Mon 14:55]
-*** DONE Foothill Boys Basketball
-CLOSED: [2020-01-27 Mon 14:55]
-*** DONE Dublin HS Boys Soccer
-CLOSED: [2020-01-27 Mon 14:12]
-*** DONE Cal Softball 
-CLOSED: [2020-01-27 Mon 13:33]
-*** DONE Castro Valley Girls Basketball 
-    CLOSED: [2020-01-22 Wed 14:03]
-*** DONE Castro Valley Girls Soccer 
-    CLOSED: [2020-01-22 Wed 14:03]
-*** DONE Washington HS Cheer 
-    CLOSED: [2020-01-22 Wed 11:36]
-*** DONE DVHS Band 
-    CLOSED: [2020-01-14 Tue 13:39]
-*** DONE DVHS Boys and Girls Basketball 
-    CLOSED: [2020-01-15 Wed 10:47]
-*** DONE Foothill HS Boys Soccer
-    CLOSED: [2020-01-03 Fri 13:14]
+**** SPORTS - DVHS Boys Soccer
+SCHEDULED: <2020-02-05 Wed>
+**** SPORTS - DVHS Girls Soccer
+SCHEDULED: <2020-02-05 Wed>
 ** Rearange Forms and HTML emails in Stratus by adding -SMS- or -FORM- to the front
 ** Maybe upgrade Senior Server to Windows Server 
 *** Help Robbie get his computer back onto the Senior Server`
@@ -226,67 +90,7 @@ CLOSED: [2020-01-27 Mon 13:33]
 ** Look into [[https://www.flipsnack.com/][Flipstack]] online catalog for Senior Orders. 
 ** Create a message system or wordpress site for the Studio 
    Wordpress intranet, should be pretty easy to implement using WAMP
-** DONE St Raymond 8th Grade Yearbook
-CLOSED: [2020-01-31 Fri 14:03] SCHEDULED: <2020-01-31 Fri>
-Sent Second proof on 1/28/2020 after name corrections.
-Sent Another proof on 1/29/2020 after adding a second vp.
-Finally approved on 01/29/2020
-*** DONE Sent Leisl an updated list on 01/02/2020 
-*** DONE Sent Leisl a composite Proof. 
-    CLOSED: [2020-01-16 Thu 15:26]
-*** DONE Make corrections to names from School
-CLOSED: [2020-01-28 Tue 12:39]
-*** DONE Order Prints with composite
-CLOSED: [2020-01-31 Fri 14:03]
-*** DONE Print 36x40 Print of Composite 
-CLOSED: [2020-01-31 Fri 14:03]
-** DONE Send Alameda HS Senior YB reminder text 
-CLOSED: [2020-01-31 Fri 12:07]
-** DONE Add Las Lomas Staff to yearbook 
-CLOSED: [2020-01-30 Thu 15:39]
-** DONE Print Financial Reports from UC 19-20 
-CLOSED: [2020-01-28 Tue 14:44]
-** DONE Print DVHS Access Pass for "Watkin" 20 
-CLOSED: [2020-01-27 Mon 18:23]
-** DONE Autobook Alameda Seniors for On Campus 
-CLOSED: [2020-01-24 Fri 11:26]
-** DONE Auto-Book Las Lomas and Print Envelopes. 
-   CLOSED: [2020-01-21 Tue 15:27]
-** DONE Clayton Valley Charter UC Images
-   CLOSED: [2020-01-15 Wed 11:23]
-*** Need Powerschool and Renamed To ID 
-** DONE Print Senior Files for Acalanes HS 
-   CLOSED: [2020-01-10 Fri 10:11]
-** DONE Plan to Auto Book Acalanes HS by TIME
-   CLOSED: [2020-01-09 Thu 14:54]
-** DONE Send Text reminders for yearbook selections 
-   CLOSED: [2020-01-09 Thu 13:35]
-*** DONE Send Clayton Valley Appointment reminders 
-    Not Going to send because the wrong text was sent before 
-*** DONE Foothill HS and San Ramon Valley HS
-    CLOSED: [2020-01-06 Mon 12:03]
-*** DONE Send Amador Valley Text Reminder 
-    CLOSED: [2020-01-07 Tue 09:23]
-** DONE Print and Setup Clayton Valley Underclass Camera Cards 
-   CLOSED: [2020-01-09 Thu 12:06]
-   20 Students 
-** DONE Plan to Auto Book remaining Campolindo Seniors for on campus 
-   CLOSED: [2020-01-08 Wed 09:47]
-** DONE Print Senior Files for Campolindo and Clayton Valley 
-   CLOSED: [2020-01-08 Wed 10:30]
-** DONE Reprint St. Raymond Staff ID Cards for added 4 Staff Members 
-   CLOSED: [2020-01-08 Wed 13:22]
-** DONE Set up Stratus on 2 Laptops for On Campus 
-   CLOSED: [2020-01-07 Tue 12:35]
-** DONE Setup 2 laptops for Clayton Valley, Setup 1 laptop for Campolindo
-   CLOSED: [2020-01-07 Tue 12:08]
-*** DONE Setup 2 Laptops with Stratus on them.
-    CLOSED: [2020-01-08 Wed 13:35]
-** DONE Check our USB Supply before Jan 10th for Chinese New Year delays. 
-   CLOSED: [2020-01-06 Mon 12:14]
-** DONE Print Acalanes HS Leadership ID Cards
-CLOSED: [2020-01-02 Thu 20:37]
-* STUDIO Plus TODO List 
+* Studio Plus TODO List 
 ** TODO Ask about removing the ability to log users off.
 * MISC and LEARNING ORG MODE 
 ** TODO Shift M Enter creates another 

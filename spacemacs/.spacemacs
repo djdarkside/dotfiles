@@ -365,10 +365,7 @@ values."
   ;;Org-Agenda Files
   (setq org-agenda-files (quote ("/media/sf_org/TASKS.org"
                                  "/media/sf_org/School_Tasks.org")))
-  ;;Org-Archieve
-  ;;(setq org-archive-location)
-
-  )
+ )
 ;; Do not write anything past this comment. This is where Emacs will
 ;; auto-generate custom variable definitions.
 (custom-set-variables
