@@ -30,30 +30,16 @@ SCHEDULED: <2020-02-01 Sat>
 :ARCHIVE: %s_archive::* Senior Digital Specials 
 ** Senior 2020 Yearbook CDs
 :ARCHIVE: %s_archive::* Senior 2020 Yearbook CDs
-*** Clayton Valley HS
-**** DONE Pull Images 
-CLOSED: [2020-01-28 Tue 14:41]
-**** DONE Retouch Image
-CLOSED: [2020-01-29 Wed 15:20]
-**** DONE Crop Images
-CLOSED: [2020-01-29 Wed 15:21]
-**** DONE Finalize Retouching
-CLOSED: [2020-01-30 Thu 11:12]
-**** DONE Send PDF Proof
-CLOSED: [2020-01-31 Fri 10:37]
-**** TODO Finalize CD
-:PROPERTIES:
-:ID:       21568d52-95d4-4c3f-b73d-80d1b6a5852e
-:END:
 *** Alameda HS
-:PROPERTIES:
-:ID:       33deb962-4a0c-445f-b9e7-40d65e6ced20
-:END:
 **** DONE Pull Images
-CLOSED: [2020-02-04 Tue 10:23] SCHEDULED: <2020-02-04 Tue>
+CLOSED: [2020-02-04 Tue 10:23]
 **** DONE Retouch Images
 CLOSED: [2020-02-04 Tue 13:33]
-**** TODO Crop Images
+**** DONE Crop Images
+CLOSED: [2020-02-04 Tue 14:36]
+**** TODO Send PDF Proof
+**** TODO Finalize Retouching 
+**** TODO Finalize CD
 *** Acalanes HS
 **** DONE Pull Images 
 CLOSED: [2020-01-30 Thu 11:30]
@@ -66,12 +52,9 @@ CLOSED: [2020-01-31 Fri 11:54] SCHEDULED: <2020-01-31 Fri>
 **** DONE Send PDF Proof
 CLOSED: [2020-02-03 Mon 14:26] SCHEDULED: <2020-02-04 Tue>
 **** TODO Finalize CD
-** TODO Add Valley HS Senior 2020 Data into Stratus 
-SCHEDULED: <2020-02-04 Tue>
-** TODO Clean up online flyers on Photobiz  
 ** Late Pays
 ** Panos
-*** HOLD Kennedy HS Pano 
+*** TODO Kennedy HS Pano 
 SCHEDULED: <2020-02-06 Thu>
 *** HOLD Northgate HS
     Sent proof to lab on 01/09/2020
@@ -79,9 +62,19 @@ SCHEDULED: <2020-02-06 Thu>
     Order as soon as you can.
 *** HOLD Acalanes HS
 ** HS Sports
-**** SPORTS - DVHS Boys Soccer
+*** SPORTS - DVHS Boys Soccer
 SCHEDULED: <2020-02-05 Wed>
-**** SPORTS - DVHS Girls Soccer
+*** SPORTS - Kennedy Wrestling 
+SCHEDULED: <2020-02-05 Wed>
+*** SPORTS - Washington Wrestling
+SCHEDULED: <2020-02-05 Wed>
+*** SPORTS - Dublin Girls Soccer
+SCHEDULED: <2020-02-05 Wed>
+*** SPORTS - DVHS Girls Soccer
+SCHEDULED: <2020-02-05 Wed>
+*** SPORTS - DVHS Dance Team 
+SCHEDULED: <2020-02-05 Wed>
+*** SPORTS - Castro Valley Wrestling
 SCHEDULED: <2020-02-05 Wed>
 ** Rearange Forms and HTML emails in Stratus by adding -SMS- or -FORM- to the front
 ** Maybe upgrade Senior Server to Windows Server 
@@ -90,6 +83,13 @@ SCHEDULED: <2020-02-05 Wed>
 ** Look into [[https://www.flipsnack.com/][Flipstack]] online catalog for Senior Orders. 
 ** Create a message system or wordpress site for the Studio 
    Wordpress intranet, should be pretty easy to implement using WAMP
+** TODO Clean up online flyers on Photobiz  
+:PROPERTIES:
+:ID:       48fa42e8-4800-4ea8-8a13-acfe191e94ff
+:END:
+* Look into IdentiSYS id card sodtware company
+** [[https://www.identisys.com/
+ Foothill will be using them next year for their id system]]
 * Studio Plus TODO List 
 ** TODO Ask about removing the ability to log users off.
 * MISC and LEARNING ORG MODE 

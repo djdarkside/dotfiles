@@ -364,7 +364,9 @@ values."
 
   ;;Org-Agenda Files
   (setq org-agenda-files (quote ("/media/sf_org/TASKS.org"
-                                 "/media/sf_org/School_Tasks.org")))
+                                 "/media/sf_org/School_Tasks.org"
+                                 "/media/sf_org/TASKS.org_archive"
+                                 "/media/sf_org/School_Tasks.org_archive")))
  )
 ;; Do not write anything past this comment. This is where Emacs will
 ;; auto-generate custom variable definitions.
@@ -378,7 +380,7 @@ values."
  '(evil-want-Y-yank-to-eol nil)
  '(org-agenda-files
    (quote
-    ("/media/sf_org/TASKS.org" "/media/sf_org/School_Tasks.org")))
+    ("/media/sf_org/TASKS.org" "/media/sf_org/School_Tasks.org" "/media/sf_org/TASKS.org_archive")))
  '(org-archive-default-command (quote org-archive-subtree))
  '(package-selected-packages
    (quote

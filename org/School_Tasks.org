@@ -7,27 +7,16 @@
 ** TODO GST - Pay School Tuition
  Cost is $375.00
 * Math Todo List
-** TODO MATH - Complete Week 1 Homework
-DEADLINE: <2020-02-03 Mon> 
-1.1:  3, 7, 9, 11, 27, 31, 34, 47, 63 (DONE)
+** TODO MATH - Week 2 homework
+DEADLINE: <2020-02-12 Wed> SCHEDULED: <2020-02-05 Wed>
+2.2:  1, 2, 4, 5, 9, 11, 13, 16, 19, 23, 31, 47
 
-1.2:  3, 4, 7, 10, 15 (DONE)
+2.3:  2, 3, 7, 10, 11, 12, 17, 21, 23, 25, 35, 62
 
-1.3:  1, 3, 5, 9, 17, 24, 27, 35, 51 (DONE)
+2.5:  3, 7, 10, 23, 25, 33, 37, 53
 
-1.4:  1, 3, 9, 13, 17, 21, 31 (DONE)
-
-1.5:  1, 3, 5, 15, 18, 35-38, 47, 51, 63 (DONE)
-
-2.1:  1, 3, 5, 6
-
-Review, review, review!  This first week is mainly a whirlwind review of precalculus and algebra concepts and strategies, 
-to make sure you remember your Encyclopedia of Functions.  Having this stuff solid will make the rest of the class go much smoother.  
-Don't worry; I'll still be teasing some more calculus concepts this week, too!
-
-Study Transformations and what different graphs of functions look like.
-Be able to identify what a graph function is.
-
+Chapter 2 homework!  Here we develop the tools (limits) that are necessary 
+to establish our notion of the derivative (instantaneous rates of change).
 * Anthropogy Todo List
 ** TODO ANTHRO - Complete Week 2 Homework
 *** Forum Questions
