@@ -8,16 +8,14 @@
 SCHEDULED: <2020-02-06 Thu>
 Cost is $375.00
 * Math Todo List
-** TODO MATH - Week 2 homework
-DEADLINE: <2020-02-12 Wed> SCHEDULED: <2020-02-05 Wed>
-2.2:  1, 2, 4, 5, 9, 11, 13, 16, 19, 23, 31, 47
-
-2.3:  2, 3, 7, 10, 11, 12, 17, 21, 23, 25, 35, 62
-
-2.5:  3, 7, 10, 23, 25, 33, 37, 53
-
-Chapter 2 homework!  Here we develop the tools (limits) that are necessary 
-to establish our notion of the derivative (instantaneous rates of change).
+** TODO MATH - Week 3 Homework 
+DEADLINE: <2020-02-19 Wed>
+2.5:  3, 7, 10, 23, 25, 33, 37, 53 (DONE)
+2.6:  3, 9, 13, 15, 19, 23, 25, 27, 35, 43, 44, 49, 66
+2.7:  2, 3, 7, 11, 13, 17, 18, 19, 20, 31, 47, 54, 55
+(34 problems)
+Drumroll, please...  Ladies and gentlemen, I present to you... THE DERIVATIVE!!  
+(Bum-badada, Bum, Bum, Bum, Baaaaaaaaaah!)  Now we can find the instantaneous rate of change of stuff!  Whoa!  
 * Anthropogy Todo List
 ** TODO ANTHRO - Complete Week 2 Homework
 Make Notes about the vocabulary of the chapter.  
@@ -46,7 +44,11 @@ QUIZ: The quiz in Canvas is on Chapter 2. DUE Tuesday, Feb 18 @ 4pm. NOTE: This 
 WATCH: The video "Cracking Your Genetic Code". As you watch the video, think about and answer the Questions on the video instructions page. These questions and their answers should become part of your study material for the next Midterm and the future Final Exam. These questions will NOT appear on the Canvas Quiz for Chapter 3.
 FORUM: Respond to the video. Instructions are at the top of the forum area. Initial responses are DUE SATURDAY, Feb 15 @ 11:59pm. Peer responses are due Tuesday, Feb 18 @ 11:59pm. Your initial responses will require that you do about 30 minutes of extra reading / searching the internet before writing your response. Do not leave this until the last minute! I will give feedback to those that come in early, but entries closer to the deadline will not be given as much feedback. Feedback gives you an opportunity to raise your initial response grade if you do not earn full credit.
 *** Forum Questions
-*** Video Questions
-*** Inquiz
-*** Canvas Quix
-*** Read Chapter 2
+*** DONE Canvas Quix
+CLOSED: [2020-02-13 Thu 09:51]
+*** DONE Video Questions
+CLOSED: [2020-02-12 Wed 13:02]
+*** DONE Inquiz
+CLOSED: [2020-02-12 Wed 13:02]
+*** DONE Read Chapter 2
+CLOSED: [2020-02-12 Wed 13:02]

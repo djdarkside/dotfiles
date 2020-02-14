@@ -6,64 +6,42 @@
 ** Daily Tasks and Routines 
 *** Take a walk every 2 hours. 
 *** Drink lots of water
-*** DONE Look it Getting Books For Spring Semester. 
-CLOSED: [2020-01-31 Fri 10:48]
-*** DONE Talk with Leisl and Robbie about Monday and Wednesday Scheduleing
-CLOSED: [2020-01-24 Fri 10:09]
 ** HOME
 *** TODO Shread all old mail 
-SCHEDULED: <2020-02-01 Sat>
-*** TODO Call State Farm  
-SCHEDULED: <2020-01-28 Tue>
-Need to remove BofA off of my policy as they are no longer the lean holder
+SCHEDULED: <2020-02-15 Sat>
 *** TODO Go to AAA 
-SCHEDULED: <2020-02-01 Sat>
+SCHEDULED: <2020-02-15 Sat>
 Remove BofA From Car Title
-*** TODO Go to IKEA and look for a new desk 
-SCHEDULED: <2020-02-01 Sat>
+*** HOLD Go to IKEA and look for a new desk 
 *** HOLD Look into purchasing a new bed
 **** Must be King Size not Cal King
 * Studio One TODO List
 :ARCHIVE: %s_archive::* Studio One TODO List 
 ** Look into IdentiSYS id card sodtware company
-** Email ImageQuix about BluePrint Software 
- Initial email on 02/06/2020
- Andrew or Caitlyn will contact us on Tuesday
- No real changes other then transfering the account over
- Can go back and forth between publisher and blueprint if we need to. 
+:PROPERTIES:
+:ID:       49e203e2-f84a-4820-ab2a-e766bed31c31
+:END:
+** TODO Clean up pedestrian files on servers 
+SCHEDULED: <2020-02-14 Fri>
 ** Senior Digital Specials
 :ARCHIVE: %s_archive::* Senior Digital Specials
 ** Senior 2020 Yearbook CDs
 :ARCHIVE: %s_archive::* Senior 2020 Yearbook CDs
-*** SENIOR YB - Alameda HS
-**** DONE Pull Images
-CLOSED: [2020-02-04 Tue 10:23]
-**** DONE Retouch Images
-CLOSED: [2020-02-04 Tue 13:33]
-**** DONE Crop Images
-CLOSED: [2020-02-04 Tue 14:36]
-**** DONE Send PDF Proof
-CLOSED: [2020-02-06 Thu 09:36]
-**** DONE Finalize Retouching 
-CLOSED: [2020-02-06 Thu 09:36]
-**** TODO Finalize CD
-*** SENIOR YB - Acalanes HS
+*** Northgate HS 
+SCHEDULED: <2020-02-14 Fri>
 **** DONE Pull Images 
-CLOSED: [2020-01-30 Thu 11:30]
+CLOSED: [2020-02-14 Fri 10:43]
 **** DONE Retouch Images
-CLOSED: [2020-01-30 Thu 12:35]
-**** DONE Crop Images
-CLOSED: [2020-01-30 Thu 15:08]
-:PROPERTIES:
-:ID:       eb6573db-a197-4f24-8f9f-81bcb7a9ac28
-:END:
-**** DONE Finalize Retouching
-CLOSED: [2020-01-31 Fri 11:54] SCHEDULED: <2020-01-31 Fri>
-**** DONE Send PDF Proof
-CLOSED: [2020-02-03 Mon 14:26] SCHEDULED: <2020-02-04 Tue>
+CLOSED: [2020-02-14 Fri 10:43]
+**** TODO Crop Images
+**** TODO Send PDF Proof
+**** TODO Finalize Retouching
 **** TODO Finalize CD
+** HS Sports
 ** Late Pays
 ** Leagues 
+*** TODO LEAGUE - CCOP Make Up In Studio  
+SCHEDULED: <2020-02-14 Fri>
 ** Panos
 Can finish all panos now as of 02/06/2020
 *** WORKING PANO - Campolindo HS
@@ -81,12 +59,6 @@ SCHEDULED: <2020-02-06 Thu>
     Order as soon as you can.
 *** HOLD PANO - Acalanes HS
 SCHEDULED: <2020-02-06 Thu>
-** HS Sports
-*** TODO SPORTS - DVHS Dance Team 
-SCHEDULED: <2020-02-05 Wed>
-*** TODO SPORTS - Dublin HS Wrestling
-Need to insert into background
-*** TODO SPORTS - Washington HS Soccer
 ** Rearange Forms and HTML emails in Stratus by adding -SMS- or -FORM- to the front
 ** Maybe upgrade Senior Server to Windows Server 
 *** Help Robbie get his computer back onto the Senior Server`
@@ -94,28 +66,17 @@ Need to insert into background
 ** Look into [[https://www.flipsnack.com/][Flipstack]] online catalog for Senior Orders. 
 ** Create a message system or wordpress site for the Studio 
    Wordpress intranet, should be pretty easy to implement using WAMP
-** TODO Clean up online flyers on Photobiz  
+** Clean up online flyers on Photobiz  
 :PROPERTIES:
 :ID:       48fa42e8-4800-4ea8-8a13-acfe191e94ff
 :END:
 ** Send Leisl IQ numbers every 5th of the month
 SCHEDULED: <2020-03-05 Thu>
 * Studio Plus TODO List 
+:PROPERTIES:
+:ID:       1c7065d3-0462-4a83-add5-95be41fb0d2f
+:END:
 ** TODO Ask about removing the ability to log users off.
-* MISC and LEARNING ORG MODE 
-** TODO Shift M Enter creates another 
-   :PROPERTIES:
-   :ID:       ebc47733-3a64-4901-a729-832ce890e94a
-   :END:
-** [[www.orgmode.org/worg/org-tutorials/orgtutorial_dto.html][Agenda Tutorial Info]] 
-** DONE Cycles C-c, C-t adds done with time stamps                 :ARCHIVE:
-   CLOSED: [2020-01-02 Thu 20:40] 
-** DONE Shift arrows to alter time stamps, date time, ext.         :ARCHIVE:
-   CLOSED: [2020-01-02 Thu 20:40]
-** Rebinded F12 for instant agenda view in org mode 
-   :PROPERTIES:
-   :ID:       e247c382-2461-408f-9688-a4d75978567a
-   :END:
-   :LOGBOOK:
-   CLOCK: [2020-01-24 Fri 14:04]--[2020-01-24 Fri 14:04] =>  0:00
-   :END:
+* PCL TODO List 
+** TODO PCL - Send Sports as zipped files in Roes from now on. 
+** TODO PCL - Ask about Blueprint integration on their systems 
