@@ -38,10 +38,15 @@ CLOSED: [2020-02-14 Fri 10:43]
 **** TODO Finalize Retouching
 **** TODO Finalize CD
 ** HS Sports
+*** TODO SPORTS - Arroyo HS Basketball 
+SCHEDULED: <2020-02-14 Fri>
+*** TODO SPORTS - Arroyo HS Wrestling
+SCHEDULED: <2020-02-14 Fri>
 ** Late Pays
 ** Leagues 
 *** TODO LEAGUE - CCOP Make Up In Studio  
 SCHEDULED: <2020-02-14 Fri>
+*** TODO LEAGUE - Edge Gymnastics 
 ** Panos
 Can finish all panos now as of 02/06/2020
 *** WORKING PANO - Campolindo HS
