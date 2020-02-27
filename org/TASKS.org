@@ -2,6 +2,142 @@
 #+DESCRIPTION: General Task List
 #+STARTUP: indent
 
+* Studio One TODO List
+:ARCHIVE: %s_archive::* Studio One TODO List 
+** -- SENIORS -- 
+*** Senior 2020 Yearbook CDs
+:ARCHIVE: %s_archive::* Senior 2020 Yearbook CDs
+**** TODO SENIOR YB - Northgate HS 
+SCHEDULED: <2020-02-14 Fri>
+***** DONE Pull Images 
+CLOSED: [2020-02-14 Fri 10:43]
+***** DONE Retouch Images
+CLOSED: [2020-02-14 Fri 10:43]
+***** DONE Crop Images
+CLOSED: [2020-02-18 Tue 11:05]
+***** DONE Send PDF Proof
+CLOSED: [2020-02-18 Tue 18:14]
+***** DONE Finalize Retouching
+CLOSED: [2020-02-18 Tue 18:14]
+***** TODO Finalize CD
+**** DONE SENIOR YB - Andrew Harren AMA coming in Monday 02/24/2020 
+CLOSED: [2020-02-25 Tue 10:24]
+Send to Leisl, Amador Approved, Sent on 02/25/2020
+*** Senior Digital Specials
+:PROPERTIES:
+:ID:       8987d27e-b711-4294-addb-8e262e0ec2d2
+:END:
+:ARCHIVE: %s_archive::* Senior Digital Specials
+**** DONE HEADSHOT - Uuree, Dash 
+CLOSED: [2020-02-20 Thu 10:13]
+37,64,125,138
+**** DONE SENIOR - Ramirez, Angelo FC  
+CLOSED: [2020-02-26 Wed 15:30]
+update yearbook pose
+**** DONE SENIOR - Moore, Madison CLA2020514 
+CLOSED: [2020-02-20 Thu 10:24]
+**** DONE SENIOR - Moore, Erik AMA
+CLOSED: [2020-02-24 Mon 14:33]
+*** DONE SENIOR - Send 2018 Senior Gallery Emails Out 
+CLOSED: [2020-02-25 Tue 10:24]
+Acalanes, Alameda, Amador Valley, California Crosspoint, Castro Valley HS, Clayton Valley HS,
+De La Salle HS, Dublin HS, Dougherty Valley HS, Foothill HS, Kennedy HS, Las Lomas HS, San Lorenzo HS 
+*** 2020 
+**** TODO 2020 SENIOR - Send No Order Email to Seniors 
+SCHEDULED: <2020-02-25 Tue>
+*** 2021
+**** TODO 2021 SENIORS - Start to create the online appointment info 
+SCHEDULED: <2020-02-21 Fri>
+**** TODO Talk about online proofs 
+**** TODO Talk about REMINDER PROOF EMAILS 
+**** TODO Discuss Shooting to server folder directly 
+**** TODO Discuss Proof options for 2021 
+** -- LEAGUES --
+*** HOLD LEAGUE - Create All Flyers and IQ Galleries 
+Galleries are done, website updated, need to wait to make the flyers as we do not have the locations to many shoots yet.
+SCHEDULED: <2020-02-21 Fri>
+*** DONE LEAGUE - Create Castro Valley Little League Flyer 
+CLOSED: [2020-02-20 Thu 16:16]
+*** DONE LEAGUE - Edge Gymnastics 
+CLOSED: [2020-02-20 Thu 14:22]
+Images Renamed
+*** DONE LEAGUE - St Johns Spring 2020 Flyer and Online Gallery 
+CLOSED: [2020-02-25 Tue 12:48]
+** -- UNDERCLASS --
+*** UC - Start working on ID Card Templates for 2020-2020
+*** UC - Update Database Design 
+*** UC - Possibly re-check all Barcodes with the school this year. 
+*** DONE UC - De La Salle HS Renamed Dropbox Link 
+SCHEDULED: <2020-02-24 Mon>
+*** DONE SPRING - Make Donlon Elem Flyer 
+CLOSED: [2020-02-24 Mon 14:56] SCHEDULED: <2020-02-24 Mon>
+11x4 and 4up
+** -- HS_SPORTS --
+*** DONE SPORT - Fremont Christian Girls Basketball 
+CLOSED: [2020-02-26 Wed 10:48] SCHEDULED: <2020-02-21 Fri>
+*** DONE SPORT - Fremont Christian JH Boys Volleyball 
+CLOSED: [2020-02-26 Wed 10:48] SCHEDULED: <2020-02-21 Fri>
+*** DONE SPORT - Fremont Christian JH Girls Soccer 
+CLOSED: [2020-02-26 Wed 10:48] SCHEDULED: <2020-02-21 Fri>
+** -- GRADUATIONS_2020 -- 
+*** DONE GRAD - Send Leisl Sample Crops 
+CLOSED: [2020-02-20 Thu 10:28]
+Potentailly adding a crop tighter for graduation photos
+** -- PANORAMIC --
+Can finish all panos now as of 02/06/2020
+*** DONE PANO - Create Mohr Elem 5th Grade Gallery and Flyer 
+CLOSED: [2020-02-24 Mon 15:21] SCHEDULED: <2020-02-24 Mon>
+is 8x24
+*** WORKING PANO - Campolindo HS
+SCHEDULED: <2020-02-06 Thu>
+Made changes for the school on 02/21/2020
+*** WORKING PANO - San Ramon Valley HS
+SCHEDULED: <2020-02-06 Thu>
+*** WORKING PANO - Acalanes HS
+SCHEDULED: <2020-02-06 Thu>
+*** HOLD PANO - Kennedy HS Pano 
+SCHEDULED: <2020-02-06 Thu>
+Gutter Done, sent proof to lab 02/06/2020
+*** HOLD PANO - Northgate HS
+SCHEDULED: <2020-02-06 Thu>
+    Sent proof to lab on 01/09/2020
+*** HOLD PANO - Clayton Valley Charter
+SCHEDULED: <2020-02-06 Thu>
+    Order as soon as you can.
+** -- LATE_PAYS --
+*** DONE LP - 02/21/2020 
+CLOSED: [2020-02-21 Fri 09:37]
+** -- STUDIO_TECH_SUPPORT -- 
+*** TODO Clean up pedestrian files on servers 
+SCHEDULED: <2020-02-14 Fri>
+*** TODO Post all current pricelist on board by water fountain. 
+SCHEDULED: <2020-02-21 Fri>
+Will make it easier tfor customer service to know the current pricelist for all campaigns.
+*** Clean up online flyers on Photobiz  
+*** Upgrade website to ssl, photobiz 
+*** Create a message system or wordpress site for the Studio 
+   Wordpress intranet, should be pretty easy to implement using WAMP
+*** Consolidate Photoshop Licences 
+*** Rearange Forms and HTML emails in Stratus by adding -SMS- or -FORM- to the front
+*** Maybe upgrade Senior Server to Windows Server 
+*** Help Robbie get his computer back onto the Senior Server
+[[Link][https://superuser.com/questions/1070037/cant-access-linux-samba-share-from-osx]]
+
+In Finder, choose Go -> Connect to Server, and in the server address box enter
+
+smb://somedomain%5csomeuser@someserver/path/to/data
+
+  somedomain is the domain you log in via as if logged onto the windows machine, 
+  someuser is your user id, 
+  someserver is server hosting the share you're trying to access
+  /path/to/data is the rest of the path to the location you want]
+** -- STUDIO_RESEARCH -- 
+*** Look into [[https://www.flipsnack.com/][Flipstack]] online catalog for Senior Orders. 
+*** Look into IdentiSYS id card software company
+** -- MISC -- 
+*** Send Leisl IQ numbers every 5th of the month
+SCHEDULED: <2020-03-05 Thu>
+*** TODO Make sure to count Edge Tax when doing March Report 
 * Personal TODO List 
 ** Daily Tasks and Routines 
 *** Take a walk every 2 hours. 
@@ -15,73 +151,12 @@ Remove BofA From Car Title
 *** HOLD Go to IKEA and look for a new desk 
 *** HOLD Look into purchasing a new bed
 **** Must be King Size not Cal King
-* Studio One TODO List
-:ARCHIVE: %s_archive::* Studio One TODO List 
-** Look into IdentiSYS id card sodtware company
-:PROPERTIES:
-:ID:       49e203e2-f84a-4820-ab2a-e766bed31c31
-:END:
-** TODO Clean up pedestrian files on servers 
-SCHEDULED: <2020-02-14 Fri>
-** Senior Digital Specials
-:ARCHIVE: %s_archive::* Senior Digital Specials
-** Senior 2020 Yearbook CDs
-:ARCHIVE: %s_archive::* Senior 2020 Yearbook CDs
-*** Northgate HS 
-SCHEDULED: <2020-02-14 Fri>
-**** DONE Pull Images 
-CLOSED: [2020-02-14 Fri 10:43]
-**** DONE Retouch Images
-CLOSED: [2020-02-14 Fri 10:43]
-**** TODO Crop Images
-**** TODO Send PDF Proof
-**** TODO Finalize Retouching
-**** TODO Finalize CD
-** HS Sports
-*** TODO SPORTS - Arroyo HS Basketball 
-SCHEDULED: <2020-02-14 Fri>
-*** TODO SPORTS - Arroyo HS Wrestling
-SCHEDULED: <2020-02-14 Fri>
-** Late Pays
-** Leagues 
-*** TODO LEAGUE - CCOP Make Up In Studio  
-SCHEDULED: <2020-02-14 Fri>
-*** TODO LEAGUE - Edge Gymnastics 
-** Panos
-Can finish all panos now as of 02/06/2020
-*** WORKING PANO - Campolindo HS
-SCHEDULED: <2020-02-06 Thu>
-*** WORKING PANO - San Ramon Valley HS
-SCHEDULED: <2020-02-06 Thu>
-*** HOLD PANO - Kennedy HS Pano 
-SCHEDULED: <2020-02-06 Thu>
-Gutter Done, sent proof to lab 02/06/2020
-*** HOLD PANO - Northgate HS
-SCHEDULED: <2020-02-06 Thu>
-    Sent proof to lab on 01/09/2020
-*** HOLD PANO - Clayton Valley Charter
-SCHEDULED: <2020-02-06 Thu>
-    Order as soon as you can.
-*** HOLD PANO - Acalanes HS
-SCHEDULED: <2020-02-06 Thu>
-** Rearange Forms and HTML emails in Stratus by adding -SMS- or -FORM- to the front
-** Maybe upgrade Senior Server to Windows Server 
-*** Help Robbie get his computer back onto the Senior Server`
-** Consolidate Photoshop Licences 
-** Look into [[https://www.flipsnack.com/][Flipstack]] online catalog for Senior Orders. 
-** Create a message system or wordpress site for the Studio 
-   Wordpress intranet, should be pretty easy to implement using WAMP
-** Clean up online flyers on Photobiz  
-:PROPERTIES:
-:ID:       48fa42e8-4800-4ea8-8a13-acfe191e94ff
-:END:
-** Send Leisl IQ numbers every 5th of the month
-SCHEDULED: <2020-03-05 Thu>
 * Studio Plus TODO List 
-:PROPERTIES:
-:ID:       1c7065d3-0462-4a83-add5-95be41fb0d2f
-:END:
 ** TODO Ask about removing the ability to log users off.
+** TODO Ask about ways to filter Initial Order and Session Fee to get meter metrics of who does not order 
+** TODO Ask about Online Booking for the 2021 Season 
+** TODO Ask about 
 * PCL TODO List 
-** TODO PCL - Send Sports as zipped files in Roes from now on. 
+** DONE PCL - Send Sports as zipped files in Roes from now on. 
+CLOSED: [2020-02-18 Tue 11:53]
 ** TODO PCL - Ask about Blueprint integration on their systems 

@@ -4,51 +4,96 @@
 #+ARCHIVE: %s_archive::
 
 * General School Tasks 
-** TODO GST - Pay School Tuition
-SCHEDULED: <2020-02-06 Thu>
-Cost is $375.00
 * Math Todo List
-** TODO MATH - Week 3 Homework 
-DEADLINE: <2020-02-19 Wed>
+** TODO MATH - Week 4 Homework 
+SCHEDULED: <2020-02-21 Fri>
+2.8:  1, 3, 4, 7, 16, 21, 27, 29, 36, 39, 41, 51, 53, 63
+
+3.1:  3, 5, 7, 10, 11, 13, 19, 23, 25, 32, 33, 39, 43, 49, 53, 63
+
+(30 problems)
+
+In this assignment, we get some shortcuts so we can just go hog wild on all kinds of derivatives!  
+(Fun fact:  Did you know that "HOG" in "hog wild" is an acronym for "Hold On, Grandma!"?  
+(Note:  This is not actually true.))
+** TODO MATH - Week 5 Homework 
+SCHEDULED: <2020-02-24 Mon>
+3.2:  1, 3, 5, 10, 13, 15, 20, 21, 27, 32, 35, 49, 57, 61
+
+3.3:  1, 2, 3, 7, 9, 12, 16, 19, 21, 25, 35, 37, 51
+
+3.4:  1, 7, 9, 11, 12, 15, 21, 27, 28, 31, 37, 38, 47, 52, 55, 65, 79, 97
+
+(45 problems)
+So many differentiation shortcuts!  Now we can take derivatives like the pros!
+** DONE MATH - Study Chapter 2.2 - 2.7 
+CLOSED: [2020-02-25 Tue 10:38] DEADLINE: <2020-02-24 Mon> SCHEDULED: <2020-02-21 Fri>
+** DONE MATH - Week 3 Homework 
+CLOSED: [2020-02-19 Wed 10:01] DEADLINE: <2020-02-19 Wed>
 2.5:  3, 7, 10, 23, 25, 33, 37, 53 (DONE)
-2.6:  3, 9, 13, 15, 19, 23, 25, 27, 35, 43, 44, 49, 66
-2.7:  2, 3, 7, 11, 13, 17, 18, 19, 20, 31, 47, 54, 55
+2.6:  3, 9, 13, 15, 19, 23, 25, 27, 35, 43, 44, 49, 66 (DONE)
+2.7:  2, 3, 7, 11, 13, 17, 18, 19, 20, 31, 47, 54, 55 (DONE)
 (34 problems)
 Drumroll, please...  Ladies and gentlemen, I present to you... THE DERIVATIVE!!  
 (Bum-badada, Bum, Bum, Bum, Baaaaaaaaaah!)  Now we can find the instantaneous rate of change of stuff!  Whoa!  
 * Anthropogy Todo List
-** TODO ANTHRO - Complete Week 2 Homework
-Make Notes about the vocabulary of the chapter.  
-If you don't know all the concepts thats ok just keep in mind the key words.
+** DONE ANTHRO - Week 4 Homework 
+CLOSED: [2020-02-25 Tue 10:39]
+Week 4 Overview
+The Modern Synthesis
+This week we're going through a chunk of Chapter 3. Pay attention to the page numbers listed below! Instead of looking at the cellular level, and how DNAs are turned into proteins (last week's topic), we're turning our attention to more population-wide effects of natural selection. You can think of this chapter as Chapter 2, but now being expressed as phenotypes that influence how well organisms "fit" into the world / environment around them with respect to getting food, getting mates, and avoiding predators.
 
-Weeks 2 and 3 Overview
+You can always open the Canvas quiz (just don't hit Submit!) and take a look at the questions in this week's Quiz. That will give you a sense for the level of understanding that I'm looking for. For those of you thinking ahead to the Midterm - remember that the Midterm (and Final) are both timed exams. If you want to start practicing, consider setting a timer for 15-20 minutes when you are ready to take the Canvas Quiz. When the timer goes off, see how far into the Quiz you got. Then, before you submit, check your answers. You can consider the Quizzes as Midterm preparation. I also suggest taking each Quiz twice - only your highest score will count and each Chapter Quiz has more than 10 possible questions, so you'll see more of the questions that I like to ask about that particular chapter.
 
-Welcome to Weeks 2 and 3 of the course, which will cover Chapter 2 of the Textbook. The next few weeks might feel a little tough for those that haven't had Biology recently, or have not had a lot of fun in previous science classes. Fear not! You will get through this!
-This week we're going to do a quick dive through basic Genetics. Mostly, this means learning a lot of new vocabulary - pay attention to the words in bold in the text and consider making some flashcards so that you become familiar with them. These are probably terms that you'll read about in the news or in future courses, so they are worth learning.
-For this chapter, don't get lost in the math. Recombination, where the math shows up, is a small part of this Chapter. You'll want to make sure that you have a basic understanding of how it works, but don't dwell on the math of allele frequencies. It's more important that you read through the entire chapter and pick up the vocabulary and the basic concepts of Mendelian inheritance, alleles vs genes, genotype and phenotype, the various steps that do from turning DNA into proteins, and the basic differences between DNA and RNA. Whew! 
-You can always open the Canvas quiz (just don't hit Submit!) and take a look at the questions in this week's Quiz. That will give you a sense for the level of understanding that I'm looking for. 
-Feel free to make use of the Course Questions Forum is you run into any questions about the material. Myself, or better yet other students, can jump in to answer questions! There are also some Chapter 2 Learning Resources to point you in the direction of some resources.
+Feel free to make use of the Course Questions Forum is you run into any questions about the material. Myself, or better yet other students, can jump in to answer questions! 
 
 At the end of the Module you will be able to:
-Explain how Mendel's laws are linked to the way cells replicate
-Explain how the properties of DNA are consistent with the role of genes in inheritance
-Describe how genes control the structure of proteins and influence the properties of organisms
+Describe how natural selection changes gene frequencies in populations (in general terms, not in mathematical terms)
+Explain how population genetics explains the maintenance of variation, which is necessary for evolution to occur
+Explain how natural selection shapes learned behavior
+Explain why evolution does not always produce adaptation
 
 Tasks to accomplish in this Module:
-READ: Chapter 2 of the textbook, paying attention to learning the vocabulary - don't get bogged down in too many details!
-INQUIZITIVE: Work on achieving 100% in Chapter 2. You should aim to have this finished prior to taking the Quiz in Canvas. Soft deadline of Tuesday, Feb 18 @ 11:59pm
-READ: Through the page on Chapter 2 Learning Resources and watch the videos if you want to know more.
-ANIMATION EXERCISE: Watch and complete the exercise on "From DNA to a Protein" DUE Feb 18 @ 11:59pm. You need to click the "Start Quiz" button to see the animation. The animation will show with the questions directly below it. This is an untimed exercise.
-ANIMATION EXERCISE: Watch and complete the exercise on "Meiosis" DUE Feb 18 @ 11:59pm. 
-QUIZ: The quiz in Canvas is on Chapter 2. DUE Tuesday, Feb 18 @ 4pm. NOTE: This is due earlier in the day than the other items on this list. This will be the case every week.
-WATCH: The video "Cracking Your Genetic Code". As you watch the video, think about and answer the Questions on the video instructions page. These questions and their answers should become part of your study material for the next Midterm and the future Final Exam. These questions will NOT appear on the Canvas Quiz for Chapter 3.
-FORUM: Respond to the video. Instructions are at the top of the forum area. Initial responses are DUE SATURDAY, Feb 15 @ 11:59pm. Peer responses are due Tuesday, Feb 18 @ 11:59pm. Your initial responses will require that you do about 30 minutes of extra reading / searching the internet before writing your response. Do not leave this until the last minute! I will give feedback to those that come in early, but entries closer to the deadline will not be given as much feedback. Feedback gives you an opportunity to raise your initial response grade if you do not earn full credit.
-*** Forum Questions
-*** DONE Canvas Quix
-CLOSED: [2020-02-13 Thu 09:51]
-*** DONE Video Questions
-CLOSED: [2020-02-12 Wed 13:02]
-*** DONE Inquiz
-CLOSED: [2020-02-12 Wed 13:02]
-*** DONE Read Chapter 2
-CLOSED: [2020-02-12 Wed 13:02]
+
+READ: Chapter 3 of the textbook. Concentrate on page 54, "Genes in Populations"; then the section "The Modern Synthesis" that begins on page 60 until the end of the Chapter on page 74. 
+
+INQUIZITIVE: Work on achieving 100% in "Chapter 3-DO THIS ONE". You should aim to have this finished prior to taking the Quiz in Canvas. Soft deadline of Tuesday, Feb 25 @ 11:59pm
+
+FORUM: Instructions are at the top of the forum area. Initial responses are DUE SATURDAY, Feb 22 @ 11:59pm. Peer responses are due Tuesday, Feb 25 @ 11:59pm. Do not leave this until the last minute! I will give feedback to those that come in early, but entries closer to the deadline will not be given as much feedback. Feedback gives you an opportunity to raise your initial response grade if you do not earn full credit.
+
+QUIZ: The quiz in Canvas is on Chapter 3. DUE Tuesday, Feb 25 @ 4pm. You are allowed two opportunities to take this quiz. I urge everybody to take it twice as the gradebook will only keep your highest score and you will get to see more of the potential questions from this chapter. 
+
+As soon as you finish this Module, I recommend that you immediately turn to the Chapter 4 reading and InQuizitive. Chapters 1-4 will be covered on the Midterm, next week.
+** TODO ANTHRO - Week 5 Homework 
+Week 5 Overview
+In this Module we're going through a chunk of Chapter 4. Backing away a little further from the Genetics of Chapter 2, we'll be studying the meaning of species and how they come about over time. This chapter will also help make sense of phylogenies, the "family tree" style diagrams that you've probably seen not only in this text but in other texts. 
+
+Remember to take the Canvas Quiz both times, even if you get a perfect score the first time. 
+
+Feel free to make use of the Course Questions Forum is you run into any questions about the material. Myself, or better yet other students, can jump in to answer questions! 
+
+The other big item for this Module is Midterm #1. Please note that the Midterm is DUE at 4pm on a Tuesday. This means that the exam will close at 4pm, so you must start the exam before then! At 4pm, the exam will close - even if you are still working. Make sure that you COMPLETE the exam BEFORE 4pm! 
+
+At the end of the Module you will be able to:
+Describe how species are defined
+Explain how new species arise through the process of evolution
+Assess why reconstructing phylogenies is important
+Explain why speciation causes organisms to be organized hierarchically and how this pattern can be described with a phylogenetic tree
+
+Tasks to accomplish in this Module:
+
+READ: Chapter 4. This chapter is about the different ways in which we classify and determine what constitutes a "species." 
+Pay particular attention to the Biological and Ecological Species concepts at the beginning of this Chapter, and the sections on phylogeny creation near the end of the chapter. 
+Know what allopatric and sympatric speciation is and how they occur. 
+As usual, the Chapter Quiz will give you a better sense of what I find important from this Chapter while InQuizitive will give you a broader review of the entire content of the chapter.
+
+INQUIZITIVE: Use the link at the top of the course to work on Chapter 4. You should aim to have this finished prior to taking the Quiz. SOFT DUE DATE Mar 3 @ 11:59pm. 
+
+QUIZ: The quiz is on Chapter 4. DUE Mar 3 @ 4pm. But you should finish this early!
+
+MIDTERM:  The Midterm is on Chapters 1-4, and the Animation/Video Exercises, 
+and the Video that we watched. You should use the Chapter Quizzes in Canvas as a study guide - 
+remember to go back and review your previous Canvas Quizzes! 
+Please note that the exam is due on the same day as Chapter 4. 
+However, you should complete Chapter 4 well in advance of the due date so that you have time to study before taking the Midterm.
+The dates are set to the same time and day so that you can arrange when you want to complete them. Midterm is DUE Tuesday, Mar 3 @ 4pm.
